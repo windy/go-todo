@@ -2,5 +2,12 @@
 logs/
 .env
 
+# Clacky-related configuration
 .1024*
 !.1024
+
+# Go language-specific files
+# (Add entries as needed) 
+
+# General Git ignores
+# (Add entries as needed) 
