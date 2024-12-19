@@ -5,6 +5,7 @@ logs/
 # Clacky-related configuration
 .1024*
 !.1024
+.breakpoints
 
 # Go language-specific files
 # (Add entries as needed) 
